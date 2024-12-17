@@ -1,0 +1,128 @@
+git reset --soft HEAD~1
+[33mcommit 83fe2dddd6b97536d71a4c0ff8f43ed0a64a8856[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: hnquang86 <trickerhnq2004@gmail.com>
+Date:   Sun Dec 15 09:34:17 2024 +0700
+
+    2
+
+[33mcommit 81798c1d511f89b46baadcfe4be4d378dc119316[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Sun Nov 17 15:16:02 2024 +0700
+
+    feat: update refresh token service
+
+[33mcommit 22817ed044e345b2753e77f9856cc0fe04fad94a[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Sat Nov 16 10:31:25 2024 +0700
+
+    feat: add configurations
+
+[33mcommit e8fce7b46f6a67401fb5bf9a3cb067d4ef5b89d5[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Sat Nov 16 10:29:40 2024 +0700
+
+    feat: update endpoint
+
+[33mcommit 593e9c02cdaef56ac0496fe9fde0c49fbea09126[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Sat Nov 16 10:28:10 2024 +0700
+
+    feat: update models
+
+[33mcommit f2901bb50eba900447eb3fdaeaedf16dcb273004[m
+Merge: afdfc73 88c18e8
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Sat Nov 16 10:26:07 2024 +0700
+
+    Merge branch 'main' of https://github.com/ngntu10/PureWash
+
+[33mcommit afdfc73add567c931735086eb1669ed3d48c9cb6[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Sat Nov 16 10:25:50 2024 +0700
+
+    feat: add some config security
+
+[33mcommit 88c18e8bb228d5e2e1eb6b18cce670357d425bc9[m
+Author: Pham Nguyen Tu <115224667+ngntu10@users.noreply.github.com>
+Date:   Sat Nov 2 21:07:23 2024 +0700
+
+    Create SECURITY.md
+
+[33mcommit a684cb76be5324ca7ab83aac22954c880de6ff71[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Fri Nov 1 20:59:50 2024 +0700
+
+    fix: minor fix
+
+[33mcommit 39535a8ea0aedfe8365c486db4bcdd9fbdfa42a5[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Fri Nov 1 20:56:01 2024 +0700
+
+    integrate database, config .env & creating bean
+
+[33mcommit 3a343b89d28f39b04412b862e8785acebdb910ed[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Fri Nov 1 19:09:08 2024 +0700
+
+    chore: add properties
+
+[33mcommit 6d25c1201ded55f2e9e5999603e898f43f98d3fe[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Thu Oct 31 09:56:26 2024 +0700
+
+    build: init models
+
+[33mcommit faad2ecb2d6696701829754238e9dbf784ba266b[m
+Author: hnquang86 <trickerhnq2004@gmail.com>
+Date:   Wed Oct 30 17:11:11 2024 +0700
+
+    cmt
+
+[33mcommit bf4dbe2dcaff3e7788f8f86de48c9ea0da616ec4[m
+Merge: de5f79c 29aaa83
+Author: hnquang86 <trickerhnq2004@gmail.com>
+Date:   Wed Oct 30 13:17:27 2024 +0700
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit de5f79ca002966613099e91cd08800d012c01c23[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Sat Sep 21 22:00:39 2024 +0700
+
+    chore: update README.md
+
+[33mcommit 29aaa83ae8eccd34d43c4ad51352f8bb53caf89a[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Sat Sep 21 22:00:39 2024 +0700
+
+    chore: update README.md
+
+[33mcommit 77bcee37341d686e8fecfd967e45d3eae1956946[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Sat Sep 21 21:58:38 2024 +0700
+
+    feat: initialize project setup
+
+[33mcommit c7987f529f95d48f4a0c570bb899556d36946de3[m
+Author: Pham Nguyen Tu <115224667+ngntu10@users.noreply.github.com>
+Date:   Sat Sep 21 21:54:01 2024 +0700
+
+    docs: update issue templates
+
+[33mcommit 81e1cac79e308e4c6a5c9503fd87c2e8ee87ced4[m
+Author: Pham Nguyen Tu <115224667+ngntu10@users.noreply.github.com>
+Date:   Sat Sep 21 21:52:58 2024 +0700
+
+    ci: Create PureWash.yml
+
+[33mcommit dfb40446ce6c12fef850aa90adc88e65a9c7cbfc[m
+Author: ngntu10 <phamnguyentu04@gmail.com>
+Date:   Sat Sep 21 21:18:23 2024 +0700
+
+    build: set up project
+
+[33mcommit 3867791409a63908e4522f4ce0b76cab4827d714[m
+Author: Pham Nguyen Tu <115224667+ngntu10@users.noreply.github.com>
+Date:   Sat Sep 21 21:13:54 2024 +0700
+
+    Initial commit
